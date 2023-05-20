@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="TS-Embed",
+    name="TSEmbed",
     version="0.0.0",
     author="GandalfsDad",
     description="This is a package for the TS-Embed projec",
